@@ -2,6 +2,6 @@ package org.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Открытие магазина ожидается через 1 месяц.");
+        System.out.println("Открытие магазина ожидается через 2 месяца.");
     }
 }
